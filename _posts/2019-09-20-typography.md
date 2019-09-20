@@ -1,8 +1,7 @@
 ---
-title: Sung-A in the house
+title: English
 ---
-![Test](/emerald/img/img-test.png "Test")
-Here s for Resume - Kor / En
+Sung-A and generous.
 
 ## This is a h2
 
