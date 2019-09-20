@@ -1,4 +1,4 @@
 ---
-title: Small text
+title: Sung-A on Sale
 ---
-This is an example of a blog post with small amount of text.
+Where u at ?
